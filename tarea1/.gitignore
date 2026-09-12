@@ -1,2 +1,5 @@
 # Ignorar archivos .md
 *.md
+
+# Ignorar archivos de Jupyter Notebook
+datos-prueba.ipynb
