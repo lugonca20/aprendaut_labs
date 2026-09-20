@@ -1,5 +1,7 @@
-# Ignorar archivos .md
-*.md
-
 # Ignorar archivos de Jupyter Notebook
 datos-prueba.ipynb
+
+# Ignorar archivos de Python compilados
+*.pyc
+*.pyo
+__pycache__/
