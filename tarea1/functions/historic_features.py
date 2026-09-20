@@ -118,7 +118,7 @@ def _rename_columns(historial_df: pd.DataFrame, window: int, is_home_flag: bool,
             })
         )
 
-def calculate_historic_features(dataset: pd.DataFrame, window: int = 10) -> pd.DataFrame:
+def calculate_historic_features(dataset: pd.DataFrame, window: int = 5) -> pd.DataFrame:
     """
     Agrega atributos históricos al dataset.
 
