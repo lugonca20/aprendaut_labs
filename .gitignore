@@ -1,0 +1,5 @@
+FrozenGymQLAndDQN_Tarea.ipynb
+*.ipynb-checkpoint
+out*.txt
+# Ignora archivos de salida de texto
+# Ignora archivos de salida de texto que comienzan con "out" y terminan con ".txt"
